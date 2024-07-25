@@ -1,4 +1,4 @@
-## Hi there 👋
+webdesign-from-scratch
 
 <!--
 **webdesign-from-scratch/webdesign-from-scratch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
